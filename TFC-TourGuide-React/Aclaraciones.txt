@@ -1,0 +1,3 @@
+Las tablas no van del todo bien porque los php estaban ya hechos para app y no he querido
+tocarlos para no cargarme la app por eso algunas tienes agujeros y no se puede buscar de 
+forma efectiva con los tres textFields que hay en el apartado de usuarios

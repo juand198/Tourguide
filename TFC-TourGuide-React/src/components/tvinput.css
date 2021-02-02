@@ -1,0 +1,17 @@
+.div-tvinput{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.img-tvinput{
+    width: 10%;
+    height: 10%;
+}
+.input-tvinput{
+    text-align: center;
+    border-radius: 10px;
+    border-color: lightseagreen;
+    width: 90%;
+    height: 40px;
+}

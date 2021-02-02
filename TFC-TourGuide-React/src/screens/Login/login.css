@@ -1,0 +1,39 @@
+.div-login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+}
+.boton-login{
+    text-decoration: none;
+    font-size: large;
+    text-align: center;
+    min-width: fit-content;
+    width: 30%;
+    background-color: transparent;
+    margin-left: 4%;
+    margin-top: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: black;
+    background: transparent;
+    border: 2px solid lightseagreen;
+    border-radius: 10px;
+}
+.boton-login:hover{
+    zoom: 110%;
+}
+#contenedor{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 750px;    
+}
+#logo{
+    width: 100%;
+}
